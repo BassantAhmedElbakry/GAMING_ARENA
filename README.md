@@ -1,4 +1,4 @@
-# gaming-arena_2
+# GAMING_ARENA
 Project's title :  Gaming using data structures 
 
 Project Description :  
